@@ -18,3 +18,7 @@ Practiced structuring HTML elements and applying CSS for modern web design.
 
 🎓 Learning Source:
 This project was completed as part of the Error Makes Clever Academy course.
+
+📌 How to View You can view the website directly here 👉 [ ]
+
+Thank you for visiting my portfolio website.
